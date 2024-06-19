@@ -1,0 +1,37 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    name: LLM agentic customer service agent
+    description: AI customer service agent for addressing issue tickets from SaaS service and Jira card. Based on adaptive RAG and Knowledge Graphs.
+    url: https://github.com/silviachen46/RAG_CustomerAgent
+
+  - icon: fa fa-github
+    name: MyTaste
+    description: A RAG-based recipe app powered by LLM. Users can generate customized recipes with their preferences and ingredients.
+    url: https://github.com/silviachen46/Mytaste
+
+  - icon: fa fa-github
+    name: Github Crawler
+    description: A sub-tool built for the customer service agent that crawls all github issue tickets, convert the images into text and preprocess the ticket file into specific structure.
+    url: https://github.com/silviachen46/Github_IssueComment_crawler
+
+
+  # - icon: fa fa-globe
+  #   name: Project 4
+  #   description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
+  #   url: https://github.com/nurlansu/hugo-sustain
+
+  # - icon: fa fa-globe
+  #   name: Project 5
+  #   description: Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo, eam doming blandit facilisis.
+  #   url: https://github.com/nurlansu/hugo-sustain
+
+  # - icon: fa fa-cog
+  #   name: Project 6
+  #   description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
+  #   url: https://github.com/nurlansu/hugo-sustain
+
+  # - icon: fa fa-cog
+  #   name: Project 7
+  #   description: Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum tractatos partiendo at, debet ubique oporteat ut his.
+  #   url: https://github.com/nurlansu/hugo-sustain
